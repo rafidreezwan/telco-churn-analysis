@@ -3,10 +3,18 @@
 This project explores customer churn behavior using machine learning and visualization.  
 It uses the Telco dataset to predict whether a customer will leave based on service and account attributes.
 
-## 🔧 Tools Used
-- Python (pandas, matplotlib, seaborn, scikit-learn)
-- Google Colab
-- GitHub
+## 📊 Power BI Dashboard
+
+A Power BI dashboard template (`.pbit`) is included to visually explore churn patterns.
+
+### 📁 File:
+- [`Telco_Churn_Dashboard.pbit`](Telco_Churn_Dashboard.pbit)
+
+### 📈 Visuals Included:
+- Customer Churn Rate (Pie Chart)
+- Churn by Contract Type (Stacked Column Chart)
+- Average Monthly Charges by Churn Status (Column Chart)
+- Optional slicers (e.g., Internet Service, Gender)
 
 ## 🎯 Highlights
 - Visual EDA of customer churn trends
